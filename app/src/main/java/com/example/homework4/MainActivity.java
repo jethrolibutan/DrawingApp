@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
     private Bitmap bitmap;
     private Canvas canvas;
     private Paint paint;
-    private int width = 800, height = 400;
+    private int width = 800, height = 300;
     private boolean drawRectangle = false, drawCircle = false;
 
     @Override
